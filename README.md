@@ -8,7 +8,7 @@
 
 ## commit 방법
 - 자신의 branch를 만들고 해당 branch에 먼저 commit
-- 그 이후 문제가 없다면, master branch에 commit
+- 그 이후 문제가 없다면, master branch에 marge
 - commit 하실 때 commit message 잘 작성해주세요 ^^
 
 
